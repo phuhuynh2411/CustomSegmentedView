@@ -1,5 +1,7 @@
 # CustomSegmentedView
 
+![customSegmentedView](customSegmentedView.gif)
+
 A custom segmented view that supports
 - Adding any view (UIView, UIImageView or UIButton, etc.)
 - Spacing between views. The default value is 20.
